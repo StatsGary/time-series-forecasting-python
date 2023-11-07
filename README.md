@@ -8,7 +8,7 @@ This a repository from my learnings on time series forecasting in Python.
 
 The notebooks in this repository go over:
 
-1. Introduction to Facebook's Prophet forecasting package
+1. [Introduction to Facebook's Prophet forecasting package](https://github.com/StatsGary/time-series-forecasting-python/blob/main/00-Intro-to-Facebook-Prophet.ipynb)
 2. Variables and data types intro (skip if you know this)
 3. Prophet forecasting evaluation metrics (MAPE, MAE, RMSE)
 4. Descriptive statistics with `statsmodels`
